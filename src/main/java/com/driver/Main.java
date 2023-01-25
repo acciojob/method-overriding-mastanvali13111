@@ -18,5 +18,3 @@ public class Main
         object.meth();
     }
 }
-Footer
-        © 2023 GitHub, Inc.
